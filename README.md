@@ -11,7 +11,6 @@ The title of this book is inspired by [*You Don’t Know JS*](https://github.com
 * Box model
     * Inline, line and block boxes
     * Block formatting context (BFC)
-        * Margin collapsing
 * Stacking and stacking contexts
     * `position: fixed`
     * `opacity`&mdash;IE and Edge compatibility
