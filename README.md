@@ -5,6 +5,8 @@ Like many other subjects of this world, CSS is an art of combinations. Things go
 
 This book is intended to be open-access and community-contributed. Feel free to submit content requests, contents and demos in *issues*.
 
+The title of this book is inspired by [*You Don’t Know JS*](https://github.com/getify/You-Dont-Know-JS), written by @getify.
+
 ## Contents (planned)
 * Box model
     * Inline, line and block boxes
