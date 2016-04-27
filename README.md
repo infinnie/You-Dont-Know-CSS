@@ -1,7 +1,7 @@
 # You Don’t Know CSS
 I don’t know CSS. Neither do I know whether you do.
 
-Like many other subjects of this world, CSS is an art of combinations. Things get **counter-intuitive** when combined. Therefore goes *YDKCSS*.
+Like many other subjects of this world, CSS is an art of combinations. Things could get **complex** and **counter-intuitive** when combined. Therefore goes *YDKCSS*.
 
 This book is intended to be open-access and community-contributed. Feel free to submit content requests, contents and demos in *issues*.
 
