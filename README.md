@@ -23,6 +23,10 @@ The title of this book is inspired by [*You Don’t Know JS*](https://github.com
     * types of values
         * `line-height` and `vertical-align`
 * Word-break and word-wrap
+* Typography
+    * CJK typography
+    * Web fonts
+* Browsers with unexpected problems
 
 ## Selected sections
 * https://en.wikipedia.org/wiki/User:Sky6t/sandbox#Stacking —on stacking and stacking contexts (demos and draft from my Wikipedia page)
