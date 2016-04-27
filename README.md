@@ -34,3 +34,4 @@ The title of this book is inspired by [*You Don’t Know JS*](https://github.com
 ## Works by others that’ve inspired me
 * http://www.zhangxinxu.com/wordpress/2015/11/diff-word-break-break-all-word-wrap-break-word/ —on `word-break`, by Xinxu Zhang
 * http://www.zhangxinxu.com/wordpress/2015/08/css-deep-understand-vertical-align-and-line-height/ —on `line-height` and `vertical-align`, by Xinxu Zhang
+* https://github.com/xieranmaya/blog/issues/4 —Google Photos layout in pure CSS, by Ran Xie
